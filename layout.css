@@ -4,6 +4,7 @@ section {
 
 .card {
     max-width: 15em !important;
+    margin: 0% 2%;
 }
 
 #btm-btn {
@@ -25,4 +26,13 @@ section {
 
 .landing-text {
     padding: 10rem 10rem ;
+}
+
+.second-text {
+    padding-right: 40rem !important;
+    margin-left: 6rem;
+}
+
+#third h2 {
+    margin-left: 12rem;
 }
