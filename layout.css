@@ -3,8 +3,8 @@ section {
 }
 
 .card {
-    max-width: 15em !important;
-    margin: 0% 2%;
+    max-width: 18em !important;
+    margin: 0% 1%;
 }
 
 #btm-btn {
@@ -33,6 +33,24 @@ section {
     margin-left: 6rem;
 }
 
-#third h2 {
-    margin-left: 12rem;
+#third h1 {
+    margin-left: 7rem;
+}
+
+.logo {
+    margin-left: 11rem !important;
+}
+
+ul {
+    margin-left: 13rem !important;
+}
+nav {
+    height: 5rem !important;
+}
+.icon-row {
+    padding: 0% 7%;
+}
+
+.links {
+    margin-right: 8rem !important;
 }
