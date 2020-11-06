@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;700&display=swap');
+
+body {
+    font-family: 'Public Sans', sans-serif;
+}
+
 .navbar {
     background-color: hsl(0, 0%, 100%) !important;
     z-index: 1;
@@ -21,4 +27,10 @@ button {
   }
   
   
-  
+.copy-text {
+    font-size: 18px ;
+    font-weight: 300 !important;
+}
+.intro-text {
+    padding-right: 7rem;
+}
